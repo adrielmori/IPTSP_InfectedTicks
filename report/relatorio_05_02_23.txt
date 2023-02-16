@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+Relatório de estágio 
+	- Banner (Banner) - 19
+
+- Resultados para ontem  
+- Irá falar com a Orientadora
+- Related words
+- Falar com os Ricardo 
+- Gerar imagens
+=======
+Relatório de estágio 
+	- Banner (Banner) - 19
+
+- Resultados para ontem  
+- Irá falar com a Orientadora
+- Related words
+- Falar com os Ricardo 
+- Gerar imagens
+>>>>>>> 40daf1c90db88c2bb15281a620ec5a9a8cbb03b2
+- Pensar relacionar o carraprto com 

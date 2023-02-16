@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+- Pensar em task de espectros medios e PCA
+- Agrupamento por espécie 
+- Task agrupam os dados de forma diferetne.
+	- Observar diferença de acordo com o tempo
+- Task para amostras individuais
+	- O quais característas se mantem a cada tempo
+- Task: Agrupar por tempo famílias de fungos diferentes 
+- Plot: TSNE e MAP para plot
+
+=======
+- Pensar em task de espectros medios e PCA
+- Agrupamento por espécie 
+- Task agrupam os dados de forma diferetne.
+	- Observar diferença de acordo com o tempo
+- Task para amostras individuais
+	- O quais característas se mantem a cada tempo
+- Task: Agrupar por tempo famílias de fungos diferentes 
+- Plot: TSNE e MAP para plot
+
+>>>>>>> 40daf1c90db88c2bb15281a620ec5a9a8cbb03b2
+- Salvando 

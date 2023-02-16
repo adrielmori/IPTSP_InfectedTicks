@@ -1,0 +1,51 @@
+<<<<<<< HEAD
+Conídios - Espero onde as células de reprodução 
+Micélios  - Quando o fungo já está em crescimento 
+FUngo pra fora - cogumelos - rifas da proliferação dos fungos 
+
+
+Controle de horas da aquisição das placas
+Concentração de 10 a sexta - Identificação da infecção geralmente é identifaco nesta quantidade.
+Controle negativo
+Infecção mais alta
+Quando fêmea ingurgitada:
+	Os rasuras são corpos gordurosos (lipídicos)
+
+Dead line para os experimentos estarem prontos:
+	18 de fevereiro
+
+Como estruturar um estudo exploratório:
+
+- Parte biológia sobre a amostragem dos dados
+	- como é feita as coletas do carapto 
+	- Como foi feistas as aquisiç~eos
+- Como as HSI são geradas
+	- Base técnica de aquisição das imagens HSI
+	- Camera
+
+=======
+Conídios - Espero onde as células de reprodução 
+Micélios  - Quando o fungo já está em crescimento 
+FUngo pra fora - cogumelos - rifas da proliferação dos fungos 
+
+
+Controle de horas da aquisição das placas
+Concentração de 10 a sexta - Identificação da infecção geralmente é identifaco nesta quantidade.
+Controle negativo
+Infecção mais alta
+Quando fêmea ingurgitada:
+	Os rasuras são corpos gordurosos (lipídicos)
+
+Dead line para os experimentos estarem prontos:
+	18 de fevereiro
+
+Como estruturar um estudo exploratório:
+
+- Parte biológia sobre a amostragem dos dados
+	- como é feita as coletas do carapto 
+	- Como foi feistas as aquisiç~eos
+- Como as HSI são geradas
+	- Base técnica de aquisição das imagens HSI
+	- Camera
+
+>>>>>>> 40daf1c90db88c2bb15281a620ec5a9a8cbb03b2

@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+Dados faltantes:
+
+Rmicroplus_Injecao_12h_1_221221-161008
+Rmicroplus_Injecao_6h_2_221221-162823
+Rmicroplus_Imersao_12h_2_221221-161945
+Rmicroplus_Imersao_24h_1_221221-162116
+Rmicroplus_Imersao_24h_2_221221-162421
+=======
+Dados faltantes:
+
+Rmicroplus_Injecao_12h_1_221221-161008
+Rmicroplus_Injecao_6h_2_221221-162823
+Rmicroplus_Imersao_12h_2_221221-161945
+Rmicroplus_Imersao_24h_1_221221-162116
+Rmicroplus_Imersao_24h_2_221221-162421
+>>>>>>> 40daf1c90db88c2bb15281a620ec5a9a8cbb03b2
+Rmicroplus_Imersao_24h_2_221221-162306
