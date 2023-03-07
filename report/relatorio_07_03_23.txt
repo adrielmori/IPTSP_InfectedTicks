@@ -1,0 +1,14 @@
+- Ajustar figuras para o CBMS e ACM;
+- Continuar
+
+MS: 
+
+- Otimização do modelo com resolução e janelamento diferentes;
+	- Variar janelamento e o tempo de predição;
+	- Tentar tudo com MLP;
+	- Mudar resolução do dataset: gerar o yhat com o valores de testes; Concatenaeer
+	o resutado em 30 dias e gerar novamente as métricas
+
+- Testes: Tirar o janelamento -> mudar a resolução (15 dias; 7 dias) do data set (conferir os dados)
+	->  No último ano estava pegando os dados de onde não tinham
+
